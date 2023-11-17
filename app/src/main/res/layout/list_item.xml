@@ -4,7 +4,9 @@
     android:id="@+id/contactListItem"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    app:cardElevation="5dp">
+    android:layout_margin="5dp"
+    app:cardElevation="5dp"
+    app:cardCornerRadius="7dp">
     
     <LinearLayout
         android:layout_width="match_parent"
